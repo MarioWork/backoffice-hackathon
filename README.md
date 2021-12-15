@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/47696178/145558159-c353fb1a-837e-498b-a751-07af98b7e3ee.png" />
 </p>
 
-This project consists of a web application that allows users to have casual sex by matching with eachother. 
+This project consists of a web application that allows users to have casual sex by matching with each other. 
 We provide the room and the transportation in a package that costs a certain price.
 
 ## Theme
