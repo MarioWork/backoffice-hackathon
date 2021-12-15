@@ -3,7 +3,7 @@
 </p>
 
 This project consists of a web application that allows users to have casual sex by matching with each other. 
-We provide the room and the transportation in a package that costs a certain price.
+We provide the room and the transportation in a package that costs a certain amount.
 
 ## Theme
 Overcome the fear and taboo of the society of casual sex.
